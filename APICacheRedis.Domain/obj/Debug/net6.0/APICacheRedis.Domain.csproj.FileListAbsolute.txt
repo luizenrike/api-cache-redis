@@ -1,0 +1,12 @@
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\obj\Debug\net6.0\APICacheRedis.Domain.csproj.AssemblyReference.cache
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\obj\Debug\net6.0\APICacheRedis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\obj\Debug\net6.0\APICacheRedis.Domain.AssemblyInfoInputs.cache
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\obj\Debug\net6.0\APICacheRedis.Domain.AssemblyInfo.cs
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\obj\Debug\net6.0\APICacheRedis.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\bin\Debug\net6.0\APICacheRedis.Domain.deps.json
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\bin\Debug\net6.0\APICacheRedis.Domain.dll
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\bin\Debug\net6.0\APICacheRedis.Domain.pdb
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\obj\Debug\net6.0\APICacheRedis.Domain.dll
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\obj\Debug\net6.0\refint\APICacheRedis.Domain.dll
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\obj\Debug\net6.0\APICacheRedis.Domain.pdb
+C:\Users\luiz.silva\Documents\C#\APICacheRedis\APICacheRedis.Domain\obj\Debug\net6.0\ref\APICacheRedis.Domain.dll
